@@ -8,7 +8,7 @@ Recently, I’ve been focused on AI-based solutions for diverse use cases, inclu
 
 *Core Competencies:*
 - Frontend Development: ReactJS, Next.js, Vue.js, Nuxt.js, React Native, TypeScript
-- Mobile Development: Java, Kottlin, React Native
+- Mobile Development: React Native, Flutter, Java, Kottlin
 - Backend Development: Node.js, NestJS, PHP, Laravel, TypeScript
 - Databases: MongoDB, MySQL, PostgreSQL, Firebase
 - Cloud & Serverless Architectures: AWS, Firebase, Docker, Kubernetes
