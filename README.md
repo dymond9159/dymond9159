@@ -1,8 +1,8 @@
 ## Software Engineer | Full-Stack Developer | AI Enthusiast
 
-I'm a Vancouver-based Full-Stack Developer with extensive experience in delivering scalable web and mobile applications, and complex integrations. With a strong foundation in both frontend and backend technologies, I specialize in building dynamic, responsive, and performant solutions using frameworks such as ReactJS, Next.js, Vue.js, Nuxt.js, and React Native.
+I'm a Full-Stack Developer with extensive experience in delivering scalable web and mobile applications, and complex integrations. With a strong foundation in both frontend and backend technologies, I specialize in building dynamic, responsive, and performant solutions using frameworks such as ReactJS, Next.js, Vue.js, Nuxt.js, and React Native.
 
-I am skilled in iOS development and have experience creating robust mobile applications across platforms. My proficiency in TypeScript, PHP, Laravel, Node.js, and NestJS allows me to manage complex backend systems and seamless integrations. My deep knowledge of databases including MongoDB, MySQL, PostgreSQL, and serverless solutions like Firebase, equips me to build efficient, data-driven applications.
+I am also skilled in RESTful API development and have experience creating robust backend applications. My proficiency in TypeScript, PHP, Laravel, Node.js, and NestJS allows me to manage complex backend systems and seamless integrations. My deep knowledge of databases including MongoDB, MySQL, PostgreSQL, and serverless solutions like Firebase, equips me to build efficient, data-driven applications.
 
 Recently, I’ve been focused on AI-based solutions for diverse use cases, including Mental Health Support, Travel Guides, 24/7 AI Service Support, and Best Friend Buddy applications. My interests lie in LLMs/Prompting, Retrieval-Augmented Generation (RAG), fine-tuning, and OCR technologies, pushing the boundaries of what's possible in AI and machine learning applications.
 
